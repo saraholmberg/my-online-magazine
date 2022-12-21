@@ -1,0 +1,23 @@
+.article {
+  margin: 20px 0;
+  padding: 20px;
+  background-color: #eee;
+  border: 1px solid #ccc;
+}
+
+.article h2 {
+  margin: 0;
+  font-size: 22px;
+  color: #333;
+}
+
+.article p {
+  margin: 10px 0;
+  font-size: 16px;
+  color: #666;
+}
+
+.article p strong {
+  font-weight: bold;
+  color: #333;
+}

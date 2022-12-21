@@ -1,0 +1,53 @@
+.top-section-img h2 {
+  font-size: 8px;
+  text-align: center;
+  margin-top: 20px;
+  font-weight: 100;
+}
+
+.image-card {
+  display: flex;
+  flex-direction: row;
+  margin: 0px;
+  border-top: 0.5px solid black;
+  border-bottom: 0.5px solid black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+}
+
+.image-description {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.image-title {
+  font-size: 12px;
+}
+
+.image-text {
+  font-size: 8px;
+  margin-top: 0px;
+  margin-right: 5px;
+}
+
+.image-date {
+  font-size: 8px;
+  margin: 5px 0 0 0;
+}
+
+.image-grid {
+  display: flex;
+  flex-direction: row;
+  width: 1000px;
+  justify-content: center;
+  margin-top: 0px;
+}
+
+.small-image {
+  width: 130px;
+  height: 85px;
+  cursor: pointer;
+}
